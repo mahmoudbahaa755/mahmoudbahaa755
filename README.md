@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Email: [mahmoudbahaa755@gmail.com](mailto:mahmoudbahaa755@gmail.com)
 - LinkedIn: [Mahmoud Bahaa](https://www.linkedin.com/in/ma7moud-bahaa)
 
-## ⚡ Fun fact
-I love exploring new places and trying out different cuisines. When I'm not coding, you can find me hiking, reading a good book, or experimenting with new recipes in the kitchen.
 
 ## 📈 GitHub Stats
 ![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudbahaa755&show_icons=true&theme=radical)
