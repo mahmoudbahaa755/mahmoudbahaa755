@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Frontend development with HTML, CSS, and modern JavaScript frameworks.
 
 ## 📫 How to reach me
-- Email: [mahmoud@example.com](mailto:mahmoudbahaa755@gmail.com)
+- Email: [mahmoudbahaa755@gmail.com](mailto:mahmoudbahaa755@gmail.com)
 - LinkedIn: [Mahmoud Bahaa](https://www.linkedin.com/in/ma7moud-bahaa)
 
 ## ⚡ Fun fact
