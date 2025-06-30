@@ -2,9 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open source, and all things tech. 
 
-## 🔭 What I'm currently working on
-- Building full-stack web applications using modern JavaScript frameworks using NextJS.
-- Exploring new technologies and improving my skills in cloud computing and DevOps.
+## 🔭 Currently working on
+- Building Frontend web applications using NextJS.
 
 ## 🌱 What I'm currently learning
 - Best practices in software architecture and design patterns.
